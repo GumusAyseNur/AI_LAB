@@ -1,2 +1,2 @@
 # AI_LAB
-Reinforcement Learning
+Reinforcement Learning Lab6
